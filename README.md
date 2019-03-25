@@ -1,5 +1,5 @@
 # Cloud Linux Server
-#### In this project Amazon Web Services is used to host a Linux server on the cloud  
+#### In this project Amazon Web Services is used to host an image upload site using a linux server on the cloud  
 
 ##### Highlights:
   - Firewall
